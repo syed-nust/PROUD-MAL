@@ -6,7 +6,7 @@ Enterprises are striving to remain protected against the malware based cyber-att
 # Results
 # Data Description
 Different scheme was used for collecting the malicious and benign samples. In order to collect malicious files, low interaction honey pots to emulate the services frequently targeted by the attacker and high interaction honey pots to emulates the production systems were deployed. Moreover, endpoint security solution is also deployed over the enterprise organizational network to collect malware samples. The benign PE including .exe or .dll are collected from machines with licensed and updated version of Windows operating system including Windows XP, 7, 8 and 10. Special precautions have been taken into account for compliance of licensing and regulatory requirements while collecting benign samples. The collected samples were approximately 19000 but after performing EDA, samples were reduced to 15457 comprising malicious and benign samples i.e. 8775 and 6681 respectively. The reduction in number of samples resulted due to filtering of corrupt and duplicate samples. The validation of samples and removal of duplicate samples was done using the virus total web api.
-![Alt text](/PROUD-MAL/blob/master/Data%20Acquisition.png?raw=true "Optional Title")
+![Alt text](/PROUD-MAL/blob/master/DataAcquisition.png?raw=true "DataCollection")
 ## DataSet Link
 * [Dataset](https://vision.seecs.edu.pk)
 * [Request for Dataset](https://docs.google.com/forms/d/e/1FAIpQLSfynrGmjI7kDSoot6GsGDSbktLDPNtMWK5PjZ9WV5f5UO2B9A/viewform?usp=sf_link)
