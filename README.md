@@ -9,7 +9,7 @@ Different scheme was used for collecting the malicious and benign samples. In or
 
 
 ## DataSet Link
-* [Dataset](https://vision.seecs.edu.pk)
+* [Dataset](https://github.com/syed-nust/PROUD-MAL/blob/master/pred_train.csv)
 * [Request for Dataset](https://docs.google.com/forms/d/e/1FAIpQLSfynrGmjI7kDSoot6GsGDSbktLDPNtMWK5PjZ9WV5f5UO2B9A/viewform?usp=sf_link)
 
 
